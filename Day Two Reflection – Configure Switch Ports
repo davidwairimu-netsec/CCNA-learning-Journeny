@@ -1,0 +1,84 @@
+On day two, I learnt how to configure switch ports and troubleshoot common network access layer issues. The lesson focused on how switch ports operate, how they are configured, and how to identify and solve connectivity problems within a network.
+
+Topics Covered and What I Learnt
+1. Duplex Communication
+
+I learnt about the different modes of communication used in networking:
+
+Half-duplex communication, where devices send and receive data one at a time.
+Full-duplex communication, where devices can send and receive data simultaneously.
+
+I understood that full-duplex communication improves network performance by reducing collisions and increasing efficiency.
+
+2. Configure Switch Ports at the Physical Layer
+
+I learnt how to configure switch ports manually by setting:
+
+Speed
+Duplex mode
+Port descriptions
+
+This helped me understand how physical layer settings affect communication between network devices.
+
+3. Auto-MDIX
+
+I learnt about Auto-MDIX technology, which allows switches to automatically detect the type of Ethernet cable being used and adjust accordingly. This removes the need to worry about using straight-through or crossover cables in many situations.
+
+4. Switch Verification Commands
+
+I learnt how to use verification commands to check switch configurations and monitor port status. Some commands helped me:
+
+View interface information
+Check port status
+Verify VLAN assignments
+Monitor connectivity
+
+These commands are important for troubleshooting and maintaining network stability.
+
+5. Verify Switch Port Configuration
+
+I practised verifying whether switch ports were configured correctly. I checked:
+
+Port status
+Duplex settings
+Speed settings
+Connectivity between devices
+
+This taught me how to confirm if configurations are working as intended.
+
+6. Network Access Layer Issues
+
+I learnt about common problems that occur at the network access layer, including:
+
+Incorrect cable connections
+Duplex mismatches
+Disabled ports
+Speed mismatches
+
+I understood how these issues can affect communication within a network.
+
+7. Interface Input and Output Errors
+
+I learnt how to identify interface errors using switch commands. I studied errors such as:
+
+CRC errors
+Collisions
+Input errors
+Output drops
+
+This helped me understand how hardware problems or incorrect configurations can impact network performance.
+
+8. Troubleshooting Network Access Layer Issues
+
+I learnt step-by-step troubleshooting techniques used to diagnose and fix access layer problems. This included:
+
+Checking physical connections
+Verifying configurations
+Testing connectivity
+Using diagnostic commands
+
+The lesson improved my problem-solving skills in networking.
+
+9. Syntax Checker – Configure Switch Ports
+
+Finally, I used a syntax checker to practise switch port configuration commands. This helped me improve command accuracy and understand the correct syntax required during switch configuration.
