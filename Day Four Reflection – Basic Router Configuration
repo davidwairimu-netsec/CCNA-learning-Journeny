@@ -1,0 +1,64 @@
+On day four, I learnt the fundamentals of router configuration and how routers are used to connect different networks. The lesson focused on configuring router settings, managing interfaces, and understanding both IPv4 and IPv6 communication in modern networks.
+
+Topics Covered and What I Learnt
+1. Configure Basic Router Settings
+
+I learnt how to perform the initial setup of a router. This included:
+
+Setting the hostname
+Configuring passwords for security
+Creating login banners
+Saving configuration files
+Configuring basic management settings
+
+This helped me understand the first steps required to prepare a router for network communication.
+
+2. Syntax Checker – Configure Basic Router Settings
+
+I used a syntax checker to practise router configuration commands. This helped me improve my command accuracy and understand the proper command structure used when configuring routers.
+
+3. Dual Stack Topology
+
+I learnt about dual stack topology, where both IPv4 and IPv6 operate together on the same network. I understood:
+
+The importance of IPv6 in modern networking
+How devices can communicate using both addressing systems
+The role of dual stack implementation during the transition from IPv4 to IPv6
+
+This topic introduced me to real-world network migration strategies.
+
+4. Configure Router Interfaces
+
+I learnt how to configure router interfaces by:
+
+Assigning IP addresses
+Activating interfaces using the no shutdown command
+Configuring IPv4 and IPv6 addressing
+Verifying interface connectivity
+
+This showed me how routers communicate with other devices and networks.
+
+5. Syntax Checker – Configure Router Interfaces
+
+I practised configuring router interfaces using a syntax checker. This helped me become more familiar with router commands and improved my confidence in configuring interfaces correctly.
+
+6. IPv4 Loopback Interfaces
+
+I learnt about loopback interfaces and their importance in networking. I understood that loopback interfaces:
+
+Are virtual interfaces on a router
+Remain active unless manually shut down
+Are used for testing, management, and router identification
+
+This helped me understand their role in network stability and troubleshooting.
+
+7. Packet Tracer – Configure Router Interfaces
+
+Finally, I completed a Packet Tracer lab where I configured router interfaces in a simulated network environment. During the practical session, I:
+
+Assigned IP addresses
+Activated interfaces
+Tested connectivity between devices
+Verified successful communication across networks
+
+The lab gave me hands-on experience and strengthened my understanding of basic router configuration.
