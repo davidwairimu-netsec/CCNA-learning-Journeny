@@ -1,0 +1,83 @@
+On day six, I learnt about switching concepts and how switches forward data within a network. The lesson focused on MAC address tables, frame forwarding processes, and the different switching methods used to improve network communication and performance.
+
+Topics Covered and What I Learnt
+1. Switching in Networking
+
+I learnt the role of switches in networking and how they help devices communicate within a Local Area Network (LAN). I understood that switches:
+
+Connect multiple devices in a network
+Forward data intelligently
+Reduce unnecessary traffic
+Improve network efficiency
+
+This topic helped me understand the importance of switches in modern computer networks.
+
+2. The Switch MAC Address Table
+
+I learnt about the MAC address table, which stores MAC addresses and the corresponding switch ports connected to devices. I understood that:
+
+Switches use MAC addresses to identify devices
+The table helps switches forward frames correctly
+MAC tables improve communication efficiency
+
+This helped me understand how switches keep track of connected devices.
+
+3. The Switch Learn and Forward Method
+
+I learnt how switches use the learn and forward process to handle network traffic. I understood that:
+
+A switch learns source MAC addresses from incoming frames
+It stores these addresses in the MAC address table
+The switch forwards frames only to the correct destination port when possible
+
+This process reduces unnecessary traffic within the network.
+
+4. Video – MAC Address Tables on Connected Switches
+
+I watched a video demonstration showing how MAC address tables operate between connected switches. The video helped me visualize:
+
+How switches exchange information
+How MAC addresses are learnt dynamically
+How communication flows across multiple switches
+
+This improved my understanding of real network operations.
+
+5. Switching Forwarding Methods
+
+I learnt about different frame forwarding methods used by switches to transmit data. I understood how forwarding methods affect:
+
+Network speed
+Error handling
+Overall performance
+
+This introduced me to the advantages and disadvantages of different switching techniques.
+
+6. Store-and-Forward Switching
+
+I learnt that in store-and-forward switching:
+
+The switch receives the entire frame before forwarding it
+Error checking is performed before transmission
+Corrupted frames can be discarded
+
+I understood that this method improves reliability but may introduce slight delays.
+
+7. Cut-Through Switching
+
+I learnt that cut-through switching:
+
+Begins forwarding a frame before the entire frame is received
+Reduces latency and increases speed
+Performs less error checking compared to store-and-forward switching
+
+This helped me understand the trade-off between speed and error detection.
+
+8. Activity – Switch It!
+
+Finally, I completed an activity where I applied switching concepts practically. The activity helped me:
+
+Understand frame forwarding processes
+Analyse MAC address learning
+Observe how switches make forwarding decisions
+
+This practical exercise strengthened my understanding of switching operations and network communication.
